@@ -2,7 +2,10 @@
   "name": "graphql.winexd.com",
   "version": "0.0.1",
   "main": "server.js",
-  "scripts": {
-
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "nodemon": "^1.18.3"
   }
 }
